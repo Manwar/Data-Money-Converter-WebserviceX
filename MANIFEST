@@ -1,0 +1,7 @@
+Changes
+lib/Data/Money/Converter/WebserviceX.pm
+Makefile.PL
+MANIFEST
+README
+t/load.t
+t/simple.t

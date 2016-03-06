@@ -1,0 +1,12 @@
+Revision history for Data::Money::Converter::WebserviceX
+
+0.03  2016-03-06 MANWAR
+      - Downgraded to use Moo.
+      - Tweaked test script t/simple.t.
+      - Tidied up pod document.
+
+0.02  2010-04-14 GPHAT
+      - Fix POD.
+
+0.01  2010-03-28 GPHAT
+      - First version, released on an unsuspecting world.
