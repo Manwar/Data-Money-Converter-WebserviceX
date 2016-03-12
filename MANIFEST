@@ -2,6 +2,9 @@ Changes
 lib/Data/Money/Converter/WebserviceX.pm
 Makefile.PL
 MANIFEST
+MANIFEST.SKIP
 README
 t/load.t
 t/simple.t
+t/pod.t
+t/manifest.t

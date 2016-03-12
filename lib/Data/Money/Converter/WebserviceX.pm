@@ -1,6 +1,6 @@
 package Data::Money::Converter::WebserviceX;
 
-$Data::Money::Converter::WebserviceX::VERSION   = '0.03';
+$Data::Money::Converter::WebserviceX::VERSION   = '0.04';
 $Data::Money::Converter::WebserviceX::AUTHORITY = 'gphat';
 
 =head1 NAME
@@ -9,7 +9,7 @@ Data::Money::Converter::WebserviceX - WebserviceX currency conversion implementa
 
 =head1 VERSION
 
-Version v0.03
+Version v0.04
 
 =head1 SYNOPSIS
 

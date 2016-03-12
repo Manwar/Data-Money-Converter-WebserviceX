@@ -1,5 +1,9 @@
 Revision history for Data::Money::Converter::WebserviceX
 
+0.04  2016-03-12 MANWAR
+      - Added MANIFEST.SKIP file.
+      - Added standard test scripts (t/pod.t and t/manifest.t).
+
 0.03  2016-03-06 MANWAR
       - Downgraded to use Moo.
       - Tweaked test script t/simple.t.
