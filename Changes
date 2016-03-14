@@ -1,5 +1,8 @@
 Revision history for Data::Money::Converter::WebserviceX
 
+0.05  2016-03-14 MANWAR
+      - Added key 'provides' to the Makefile.PL script.
+
 0.04  2016-03-12 MANWAR
       - Added MANIFEST.SKIP file.
       - Added standard test scripts (t/pod.t and t/manifest.t).
