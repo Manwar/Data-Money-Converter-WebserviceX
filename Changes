@@ -1,5 +1,8 @@
 Revision history for Data::Money::Converter::WebserviceX
 
+0.06  2016-03-20 MANWAR
+      - Added LICENSE file.
+
 0.05  2016-03-14 MANWAR
       - Added key 'provides' to the Makefile.PL script.
 
