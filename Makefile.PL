@@ -30,7 +30,7 @@ WriteMakefile(
     (eval { ExtUtils::MakeMaker->VERSION(6.46) } ? (META_MERGE => {
         'meta-spec' => { version => 2 },
         provides    => {
-            'Data::Money::Converter::WebserviceX' => { file => 'lib/Data/Money/Converter/WebserviceX.pm', version => '0.06' },
+            'Data::Money::Converter::WebserviceX' => { file => 'lib/Data/Money/Converter/WebserviceX.pm', version => '0.07' },
         },
         resources => {
             repository => {
